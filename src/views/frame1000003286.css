@@ -1,0 +1,339 @@
+.frame1000003286-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.frame1000003286-frame1000003286 {
+  gap: 10px;
+  width: 1611px;
+  height: auto;
+  display: flex;
+  padding: 82px 163px;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.frame1000003286-group1000003220 {
+  top: 0px;
+  left: 0px;
+  width: 1611px;
+  height: 952px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.frame1000003286-rectangle23233 {
+  top: 0px;
+  left: 0px;
+  width: 1515px;
+  height: 952px;
+  position: absolute;
+}
+ 
+.frame1000003286-ellipse1293 {
+  top: 59px;
+  left: 940px;
+  width: 671px;
+  height: 656px;
+  position: absolute;
+}
+ 
+.frame1000003286-frame1000003285 {
+  gap: 94px;
+  display: flex;
+  z-index: 1;
+  align-items: center;
+  justify-content: center;
+}
+ 
+.frame1000003286-frame1000003284 {
+  gap: 18px;
+  width: 619px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.frame1000003286-frame1000003283 {
+  gap: 43px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-end;
+  flex-direction: column;
+}
+ 
+.frame1000003286-frame1000003282 {
+  gap: 50px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.frame1000003286-frame1000003281 {
+  gap: 35px;
+  width: 472px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.frame1000003286-text10 {
+  color: rgba(73, 136, 123, 1);
+  height: auto;
+  font-size: 25.833332061767578px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame1000003286-text11 {
+  color: rgba(73, 136, 123, 1);
+  height: auto;
+  font-size: 48px;
+  align-self: stretch;
+  font-style: Black;
+  text-align: left;
+  font-family: Lato;
+  font-weight: 900;
+  line-height: 45px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame1000003286-text12 {
+  color: rgba(115, 115, 115, 1);
+  height: auto;
+  font-size: 24px;
+  align-self: stretch;
+  font-style: Medium;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 500;
+  line-height: 32px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame1000003286-text23 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 24px;
+  align-self: stretch;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame1000003286-frame5 {
+  gap: 10px;
+  width: 400px;
+  height: 76px;
+  display: flex;
+  padding: 8px 18px;
+  background: linear-gradient(90deg, rgba(141, 179, 171, 1) 0%, rgba(89, 118, 113, 1) 100%);
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 50px;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.frame1000003286-frame3 {
+  gap: 15px;
+  height: 33px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+ 
+.frame1000003286-text24 {
+  color: rgba(255, 255, 255, 1);
+  width: 303px;
+  height: auto;
+  font-size: 24px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame1000003286-frame1000003220 {
+  gap: 10px;
+  display: flex;
+  align-items: center;
+}
+ 
+.frame1000003286-group1000003219 {
+  width: 496px;
+  height: 740px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.frame1000003286-rectangle23234 {
+  top: 0px;
+  left: 0px;
+  width: 496px;
+  height: 719px;
+  position: absolute;
+  border-radius: 52px;
+}
+ 
+.frame1000003286-frame1000003280 {
+  gap: 48px;
+  top: 48px;
+  left: 0px;
+  width: 496px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.frame1000003286-frame1000003279 {
+  gap: 29px;
+  width: 404px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.frame1000003286-text25 {
+  color: rgba(53, 115, 105, 1);
+  width: 272px;
+  height: auto;
+  font-size: 24px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame1000003286-text26 {
+  color: rgba(53, 115, 105, 1);
+  font-weight: 800;
+}
+ 
+.frame1000003286-frame1000003278 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.frame1000003286-frame1000003275 {
+  gap: 18px;
+  width: 379px;
+  height: 44px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.frame1000003286-vector {
+  width: 18px;
+  height: 19px;
+}
+ 
+.frame1000003286-text30 {
+  color: rgba(39, 76, 68, 1);
+  width: 343px;
+  height: auto;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame1000003286-frame1000003276 {
+  gap: 19px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.frame1000003286-flowbitedesktoppcsolid {
+  width: 24px;
+  height: 24px;
+}
+ 
+.frame1000003286-text31 {
+  color: rgba(39, 76, 68, 1);
+  width: 361px;
+  height: auto;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame1000003286-frame1000003277 {
+  gap: 9px;
+  display: flex;
+  align-items: flex-end;
+}
+ 
+.frame1000003286-antdesignsettingfilled {
+  width: 24px;
+  height: 24px;
+}
+ 
+.frame1000003286-text32 {
+  color: rgba(39, 76, 68, 1);
+  width: 339px;
+  height: auto;
+  font-size: 18px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.frame1000003286-rectangle7 {
+  width: auto;
+  height: 432px;
+  align-self: stretch;
+  border-radius: 52px;
+}
