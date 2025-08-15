@@ -8,14 +8,14 @@ import {
 } from 'react-router-dom'
 
 import './style.css'
-import Frame1000003286 from './views/frame1000003286'
+import Group1000003218 from './views/group1000003218'
 import NotFound from './views/not-found'
 
 const App = () => {
   return (
     <Router>
       <Switch>
-        <Route component={Frame1000003286} exact path="/" />
+        <Route component={Group1000003218} exact path="/" />
         <Route component={NotFound} path="**" />
         <Redirect to="**" />
       </Switch>
